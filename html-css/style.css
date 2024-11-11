@@ -8,6 +8,10 @@
 .child {
     width: 25%;
     height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #fff;
     background-color: #363;
     border: 1px solid #fff;
 }
