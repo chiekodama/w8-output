@@ -7,7 +7,7 @@
 }
 .child {
     width: 25%;
-    height: auto;
+    height: 100px;
     background-color: #363;
     border: 1px solid #fff;
 }
