@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+.child {
+    width: 25%;
+    height: auto;
+    background-color: #363;
+    border: 1px solid #fff;
+}
