@@ -25,3 +25,13 @@
     background-color: #1028;
     border: 1px solid #fff;
 }
+.child3 {
+    width: 16.6%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #fff;
+    background-color: #851;
+    border: 1px solid #fff;
+}
