@@ -13,8 +13,8 @@
     display: flex;
     color: #fff;
     background-color: #363;
-    border: 1px solid #fff;
-    border-radius: 10px;
+    border: 10px solid #fff;
+    border-radius: 20px;
 }
 .child2 {
     width: 50%;
@@ -24,8 +24,8 @@
     display: flex;
     color: #fff;
     background-color: #1028;
-    border: 1px solid #fff;
-    border-radius: 10px;
+    border: 10px solid #fff;
+    border-radius: 20px;
 }
 .child3 {
     width: 16.66%;
@@ -35,6 +35,6 @@
     display: flex;
     color: #fff;
     background-color: #851;
-    border: 1px solid #fff;
-    border-radius: 10px;
+    border: 10px solid #fff;
+    border-radius: 20px;
 }
