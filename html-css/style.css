@@ -1,6 +1,9 @@
-* {
-    box-sizing: border-box;
+@charset "utf-8";
+
+body {
+    font-family: 'Noto Sans JP', "Meiryo UI", "Hiragino Sans", "Yu Gothic UI", "MS PGothic", "Hiragino Kaku Gothic ProN", sans-serif;
 }
+
 .parent {
     display: flex;
     flex-wrap: wrap;
@@ -38,3 +41,4 @@
     border: 10px solid #fff;
     border-radius: 20px;
 }
+
