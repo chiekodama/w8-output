@@ -46,6 +46,18 @@ body {
     border-radius: 20px;
 }
 
+.email-text {
+    text-align: left;
+    
+}
+
+.email {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    min-width: 500px;
+}
+
 .Login {
     width: 50%;
     justify-content: center;
