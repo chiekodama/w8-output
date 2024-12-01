@@ -46,9 +46,19 @@ body {
     border-radius: 20px;
 }
 
+.Login {
+    background-color: #efefef;
+    color: #333;
+}
+
+.section-headline {
+    text-align: left;
+    margin: 10px;
+}
+
 .email-text {
     text-align: left;
-    
+    margin: 10px;
 }
 
 .email {
@@ -58,12 +68,27 @@ body {
     min-width: 500px;
 }
 
-.Login {
-    width: 50%;
-    justify-content: center;
+.password-text {
+    text-align: left;
+    margin: 10px;
+}
+
+.password {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    min-width: 500px;
+}
+
+.form-button {
     text-align: center;
-    background-color: #efefef;
-    color: #333;
+}
+
+.button {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    min-width: 500px;
 }
 
 .signup-link {
@@ -71,7 +96,13 @@ body {
     text-decoration: none;
     font-size: 1rem;
     transition: color 0.3s;
+    min-width: 500px;
   }
-  
+
+.form-table {
+    margin: 0 auto;
+
+}    
+}
 
 
