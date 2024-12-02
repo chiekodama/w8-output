@@ -46,14 +46,17 @@ body {
     border-radius: 20px;
 }
 
-.Login {
+.login {
+    padding: 30px 15px;
     background-color: #efefef;
     color: #333;
 }
 
 .section-headline {
-    text-align: left;
-    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 40px;
 }
 
 .email-text {
