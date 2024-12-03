@@ -46,6 +46,9 @@ body {
     border-radius: 20px;
 }
 
+/*
+login
+*/
 .login {
     padding: 30px 15px;
     background-color: #efefef;
@@ -56,18 +59,17 @@ body {
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    margin: 0 0 40px;
+    margin: 0 0 10px;
 }
 
 .email-text {
-    margin: 10px;
 }
 
 .email {
     border-radius: 5px;
     padding: 10px;
     border: 1px solid #ccc;
-    min-width: 500px;
+    min-width: 400px;
 }
 
 .password-text {
@@ -78,19 +80,20 @@ body {
     border-radius: 5px;
     padding: 10px;
     border: 1px solid #ccc;
-    min-width: 500px;
+    min-width: 400px;
 }
 
 .form-button {
     text-align: center;
-    padding-top: 10px;
 }
 
 .button {
+    margin-top: 10px;
     border-radius: 5px;
     padding: 10px;
     border: 1px solid #ccc;
-    min-width: 500px;
+    background: yellowgreen;
+    min-width: 400px;
 }
 
 .signup-text {
